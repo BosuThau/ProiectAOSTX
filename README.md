@@ -89,6 +89,9 @@ Exemplu request / response și metode HTTPS:
 ![image](https://github.com/user-attachments/assets/520a6e6f-f762-42d4-b9bd-8061d9413e08)
 
 ![image](https://github.com/user-attachments/assets/9654abf8-32f0-4774-acf2-e6124d88b8a4)
+
+![{C2951556-54A6-45D6-95BF-E01A0419565C}](https://github.com/user-attachments/assets/f63a96eb-0e82-4f72-8385-9fd39e55a782)
+
  
 ---
 
